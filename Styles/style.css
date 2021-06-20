@@ -1,0 +1,15 @@
+html {
+	font-family: 'Big Shoulders Stencil Display', 
+	cursive;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li {
+	font-size: 20px;
+	line-height: 3;
+	letter-spacing: 3px;
+}
