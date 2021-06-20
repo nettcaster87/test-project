@@ -1,9 +1,22 @@
 html {
 	font-family: 'Big Shoulders Stencil Display', 
 	cursive;
+	background-color: #00539F;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #FF9500;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black; 
 }
 
 h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #00539F;
+	text-shadow: 3px 3px 3px black;
 	font-size: 60px;
 	text-align: center;
 }
@@ -13,3 +26,9 @@ p, li {
 	line-height: 3;
 	letter-spacing: 3px;
 }
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
